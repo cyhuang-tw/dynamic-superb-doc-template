@@ -5,7 +5,7 @@
 <!-- Emotion recognition aims to idenetify the most corresponding option of emotion of a given speech utterance, which includes the [Multimodal EmotionLines Dataset](https://huggingface.co/datasets/DynamicSuperb/EmotionRecognition_MultimodalEmotionlinesDataset)
 [[1]](https://arxiv.org/pdf/1810.02508.pdf) for this task. -->
 
-Emotion recognition seeks to identify the most fitting emotional category for a given speech utterance, utilizing the [Multimodal EmotionLines Dataset](https://affective-meld.github.io/) [[1]](https://arxiv.org/pdf/1810.02508.pdf) for this purpose. The link to the reorganized data is as follows: [[Hugging Face]](https://huggingface.co/datasets/DynamicSuperb/EmotionRecognition_MultimodalEmotionlinesDataset)
+Emotion recognition seeks to identify the most fitting emotional category for a given speech utterance. This task currently has the [Multimodal EmotionLines Dataset](https://affective-meld.github.io/) [[1]](https://arxiv.org/pdf/1810.02508.pdf) dataset. The link to the reorganized data is as follows: [[Hugging Face]](https://huggingface.co/datasets/DynamicSuperb/EmotionRecognition_MultimodalEmotionlinesDataset)
 
 ## Task Objective
 
